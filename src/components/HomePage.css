@@ -1,0 +1,17 @@
+.home_container{
+    background-color: #101e2c;
+    width: 600px;
+    height: 20vh;
+    margin: 5rem auto;
+    padding: 1rem 1.5rem;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 12px #101e2c;
+}
+
+.home_container h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 1.2rem 0;
+    text-transform: uppercase;
+}

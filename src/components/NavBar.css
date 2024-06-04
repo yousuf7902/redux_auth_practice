@@ -1,0 +1,35 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #101E2C;
+    color:white;
+    font-size: 1.2rem;
+}
+
+.nav_list{
+    list-style:none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+
+}
+
+.nav_list li{
+    padding: 0 1rem;
+}
+
+.nav_list li a{
+    color:white;
+}
+
+.nav_btn{
+    padding:0.5rem 1rem;
+    cursor: pointer;
+    outline: none;
+    border-radius: 15px;
+    font-size: 1.2rem;
+}
